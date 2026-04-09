@@ -47,9 +47,9 @@ I'm always open to new connections and opportunities! Let's chat?
   <a href="mailto:kaylaeiryah2824@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/meialluu?igsh=dmt6eG1tbzNuMDR1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaylaeiryah2824@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 </p>
 
 I'm a proud member of **Women in Tech**! 🌸
