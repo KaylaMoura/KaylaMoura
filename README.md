@@ -44,9 +44,9 @@ I'm always open to new connections and opportunities! Let's chat?
   <a href="https://www.linkedin.com/in/kayla-moura-080857316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:kaylaeiryah2824@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+ <a href="https://www.instagram.com/meialluu?igsh=dmt6eG1tbzNuMDR1" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaylaeiryah2824@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
