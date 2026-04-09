@@ -29,10 +29,9 @@ Here are the technologies that power my creations:
 
 ### 🐇 My Projects 🐇
 
-* [Meu Portfolio Pessoal](https://github.com/KaylaMoura/meu-portf-lio) - Site criado com HTML, CSS e JS para apresentar meus trabalhos.
-* [Croma Design Portfolio](https://github.com/KaylaMoura/croma-design-portfolio) - Um projeto focado em design e front-end.
-* [Trabalho Uninter](https://github.com/KaylaMoura/trabalho-uninter) - Site desenvolvido para um trabalho acadêmico (Aula prática).
-
+* [Meu Portfolio Pessoal](https://github.com/KaylaMoura/meu-portf-lio) - Website created with HTML, CSS, and JS to showcase my work.
+* [Croma Design Portfolio](https://github.com/KaylaMoura/croma-design-portfolio) - A project focused on design and front-end development.
+* [Trabalho Uninter](https://github.com/KaylaMoura/trabalho-uninter) -Website developed for an academic project (practical class).
 ---
 
 ### 🌷 Connect With Me! 🌷
